@@ -1,2 +1,2 @@
 # IWACOM-IoT
-an platform for monitoring water quality
+a platform for monitoring water quality
